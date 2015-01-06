@@ -5,7 +5,7 @@ Customized modules for willie
 
 Current Modules
 ---------------
-* canterlothil -- Radio Pluging for http://canterlothill.com/
+* [canterlothill.py](modules/canterloghill.py) -- Radio Pluging for http://canterlothill.com/
 
 Prerequist
 ---------
