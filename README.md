@@ -14,7 +14,7 @@ You will need [willie](https://github.com/embolalia/willie) to run this module
 
 Installation
 -----------
-Drop the module.py file you want into you .willie/module folder located in you home directory
+Drop the module.py file you want into `~/.willie/modules`
 
 Contributing
 -----------
